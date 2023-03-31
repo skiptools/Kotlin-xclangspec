@@ -54,6 +54,8 @@
 		<string>B8A1C62D-289E-476A-B0CD-B16ADBDD8395</string>
                 <!-- Xcode 14.2 (14C18) -->
 		<string>C91F3560-00E7-4749-8E3F-4D83B1496051</string>
+                <!-- Xcode 14.3 (14E222b) -->
+		<string>EA3EACC9-A0BE-423D-9BA3-AA8B9FE68E38</string>
                 <!-- Get new UUIDs with: defaults read /Applications/Xcode.app/Contents/Info DVTPlugInCompatibilityUUID -->
 	</array>
 	<key>XCPluginHasUI</key>
